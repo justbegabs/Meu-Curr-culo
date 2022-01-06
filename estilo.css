@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  font-size: 2em
+}
+
+h1{
+  width: 50%;
+  margin: auto;
+  font-size: 10rem;
+  font-family: 'Road Rage', cursive;
+
+}
+
+p{
+  width: 55%;
+  margin: auto;
+  text-align: center;
+}
+
+.top-conteiner{
+background-color: #99FEFF;
+}
+
+.middle-conteiner{
+background-color: #94DAFF;
+
+}
+
+.bottom-conteiner{
+background-color: #94B3FD;
+}
+
+.montanha{
+  position: relative;
+  left: 450px;
+}
